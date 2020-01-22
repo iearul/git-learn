@@ -1,8 +1,6 @@
 #Demo Git Repository
 This is the first in this repo.
 
-##Ipsum Below
-jhshkf sfjf h sfhfhhdhfkh fkfhfskhshf   fshkfsh
+##Website contents
 
-
-vxcvcxv xvvxvf fdsdsfs
+1. index.html
